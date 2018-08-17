@@ -1,0 +1,21 @@
+{
+  "name": "run-gg",
+  "main": "node_modules/expo/AppEntry.js",
+  "private": true,
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "expo": "^23.0.0",
+    "expo-asset-utils": "^0.0.5",
+    "expo-constants": "^1.0.1",
+    "expo-react-native-adapter": "^1.0.1",
+    "expo-three": "^3.0.0-alpha.4",
+    "prop-types": "15.6.0",
+    "react": "16.0.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz"
+  }
+}
